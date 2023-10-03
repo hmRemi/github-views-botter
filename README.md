@@ -86,6 +86,6 @@ If you have any questions, issues, or suggestions, feel free to open an [issue](
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=STAR"/>
+  <img src="https://img.shields.io/github/stars/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/languages/top/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=python"/>
 </p>
