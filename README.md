@@ -18,9 +18,9 @@ GitHub Views Botter is a Python script that automates the process of increasing 
 
 ## Milestones
 
-10 Stars - Better Error Handling
-25 Stars - Recode in Rust
-50 Stars - Suggest wtv
+- **10 Stars** - Better Error Handling
+- **25 Stars** - Recode in Rust
+- **50 Stars** - Suggest wtv
 
 ---
 
