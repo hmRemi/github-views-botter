@@ -2,7 +2,7 @@
 
 GitHub Views Botter is a Python script that automates the process of increasing the view count of a GitHub repository's image file. It does so by sending requests to the image URL, effectively incrementing the view count.
 
-![GitHub Views Botter](https://img.shields.io/badge/version-1.0.0&color=FF7F7F)
+![GitHub Views Botter](https://img.shields.io/badge/version-1.0.0-FF7F7F)
 ![GitHub Views Botter](https://img.shields.io/badge/author-%E2%9C%9F-9cf)
 
 ---
