@@ -63,3 +63,15 @@ To run the GitHub Views Botter, you will need the following:
 3. **Image URL:** Provide the URL of the image file hosted on the GitHub repository that you want to boost the view count for.
 4. The script will start sending requests to the image URL, incrementing the view count.
 5. You can monitor the progress in real-time in the console title, where the hits, failures, and Views Per Minute (VPM) will be displayed.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the project, please follow these steps:
+
+1. **Fork the Project:** Start by forking the project to your own GitHub account using the "Fork" button at the top right of this repository.
+2. **Create a New Branch:** Create a new branch in your forked repository. This branch will be dedicated to your feature, enhancement, or bug fix.
+3. **Make Changes:** Implement your desired changes, whether it's a new feature, improvement, or fixing a bug. Please ensure your code adheres to the project's coding standards.
+4. **Commit Your Changes:** Commit your changes with clear and concise commit messages that describe the purpose of each change.
+5. **Push to Your Fork:** Push your changes to your forked repository on GitHub.
+6. **Create a Pull Request:** Once you've pushed your changes to your fork, go to the original repository and create a pull request. Provide a detailed description of your changes and why they are valuable.
+
