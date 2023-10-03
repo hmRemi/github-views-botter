@@ -4,7 +4,6 @@ GitHub Views Botter is a Python script that automates the process of increasing 
 
 ![GitHub Views Botter](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![GitHub Views Botter](https://img.shields.io/badge/author-%E2%9C%9F-9cf)
-[![GitHub Views](https://img.shields.io/github/views/Devuxious/github-views-botter.svg)](https://github.com/Devuxious/github-views-botter)
 
 ---
 
@@ -83,3 +82,10 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ---
 
 If you have any questions, issues, or suggestions, feel free to open an [issue](https://github.com/Devuxious/GitHub-Views-Botter/issues).
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/Devuxious/GitHub-Views-Botterr.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=python"/>
+</p>
