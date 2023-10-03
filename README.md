@@ -4,6 +4,7 @@ GitHub Views Botter is a Python script that automates the process of increasing 
 
 ![GitHub Views Botter](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![GitHub Views Botter](https://img.shields.io/badge/author-%E2%9C%9F-9cf)
+[![GitHub Views](https://img.shields.io/github/views/Devuxious/github-views-botter.svg)](https://github.com/Devuxious/github-views-botter)
 
 ---
 
