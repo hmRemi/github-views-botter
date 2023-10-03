@@ -75,3 +75,10 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. **Push to Your Fork:** Push your changes to your forked repository on GitHub.
 6. **Create a Pull Request:** Once you've pushed your changes to your fork, go to the original repository and create a pull request. Provide a detailed description of your changes and why they are valuable.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+---
+
+If you have any questions, issues, or suggestions, feel free to open an [issue](https://github.com/Devuxious/GitHub-Views-Botter/issues).
