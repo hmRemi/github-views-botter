@@ -7,6 +7,12 @@ GitHub Views Botter is a Python script that automates the process of increasing 
 
 ---
 
+## Showcase
+
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevuxious%2FGitHub-Views-Botter&countColor=%23FF7F7F&labelColor=black" alt="Views"/>
+
+---
+
 ## Features
 
 - **Multi-Threaded:** Utilize multiple threads to efficiently increase the view count of the GitHub repository's image file.
@@ -96,5 +102,4 @@ If you have any questions, issues, or suggestions, feel free to open an [issue](
   <img src="https://img.shields.io/github/license/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/stars/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/languages/top/Devuxious/GitHub-Views-Botter.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=python"/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevuxious%2FGitHub-Views-Botter&countColor=%23FF7F7F&labelColor=black" alt="Views"/>
 </p>
