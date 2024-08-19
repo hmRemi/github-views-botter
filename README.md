@@ -9,7 +9,7 @@ GitHub Views Botter is a Python script that automates the process of increasing 
 
 ## Showcase
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDevuxious%2FGitHub-Views-Botter&countColor=%23FF7F7F&labelColor=black" alt="Views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FhmRemi%2FGitHub-Views-Botter&countColor=%23FF7F7F&labelColor=black" alt="Views"/>
 
 ---
 
